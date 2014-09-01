@@ -1,0 +1,45 @@
+.comment {
+	min-height: 80px;
+	border-top: 1px solid #d8dee2;
+	background-color: #F6F7F8;
+	font-size: 12px;
+}
+
+.comment img {
+	margin-right: 10px;
+}
+
+.comment-meta {
+	margin: -5px 0;
+	color: #303030;
+}
+
+.comment-name {
+	font-weight: bold;
+}
+
+.comment-date {
+	font-style: italic;
+
+}
+
+.border-left {
+	border-left: 1px solid #d8dee2;
+}
+
+.border-right {
+	border-right: 1px solid #d8dee2;
+}
+
+.padding-10 {
+	padding: 10px;
+}
+
+
+.min-100 {
+	min-height: 100px;
+}
+
+.min-80 {
+	min-height: 80px;
+}
